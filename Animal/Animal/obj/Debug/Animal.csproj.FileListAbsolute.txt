@@ -1,0 +1,7 @@
+D:\Unity_CodeGym\LopVaDoiTuong\Animal\Animal\bin\Debug\Animal.exe.config
+D:\Unity_CodeGym\LopVaDoiTuong\Animal\Animal\bin\Debug\Animal.exe
+D:\Unity_CodeGym\LopVaDoiTuong\Animal\Animal\bin\Debug\Animal.pdb
+D:\Unity_CodeGym\LopVaDoiTuong\Animal\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+D:\Unity_CodeGym\LopVaDoiTuong\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+D:\Unity_CodeGym\LopVaDoiTuong\Animal\Animal\obj\Debug\Animal.exe
+D:\Unity_CodeGym\LopVaDoiTuong\Animal\Animal\obj\Debug\Animal.pdb

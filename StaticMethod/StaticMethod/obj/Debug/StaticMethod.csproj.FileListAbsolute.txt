@@ -1,0 +1,7 @@
+D:\Unity_CodeGym\LopVaDoiTuong\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe.config
+D:\Unity_CodeGym\LopVaDoiTuong\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe
+D:\Unity_CodeGym\LopVaDoiTuong\StaticMethod\StaticMethod\bin\Debug\StaticMethod.pdb
+D:\Unity_CodeGym\LopVaDoiTuong\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.AssemblyReference.cache
+D:\Unity_CodeGym\LopVaDoiTuong\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+D:\Unity_CodeGym\LopVaDoiTuong\StaticMethod\StaticMethod\obj\Debug\StaticMethod.exe
+D:\Unity_CodeGym\LopVaDoiTuong\StaticMethod\StaticMethod\obj\Debug\StaticMethod.pdb
